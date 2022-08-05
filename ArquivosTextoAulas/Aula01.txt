@@ -1,0 +1,6 @@
+A primeira aula foi introdutoria, principalmente para os alunos que ainda não tiveram
+contato com programação.
+
+Auxilio na instalação de extenções e configurações para o VSCode.
+
+Criação do Hello World em python
